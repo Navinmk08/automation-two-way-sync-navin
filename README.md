@@ -1,6 +1,10 @@
 automation-two-way-sync
 ========================
 
+**Repository**: https://github.com/Navinmk08/automation-two-way-sync-navin
+
+**Shared with**: deeplogicaitech, csvinay
+
 Two-way sync between Google Sheets (Lead Tracker) and ClickUp (Work Tracker).
 
 ## Overview
